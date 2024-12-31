@@ -9,9 +9,9 @@ This is an android project I work on while I was in my last year of high school.
 
 Here are some visualizations for the app.  
 <div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="Screenshots%20and%20Icon/Screen%20shots/home-screen.png" alt="Home screen" width="200"/>
-    <img src="Screenshots%20and%20Icon/Screen%20shots/check-to-do-screen.png" alt="Checklist screen" width="200"/>
-    <img src="Screenshots%20and%20Icon/Screen%20shots/project-screen.png" alt="Tasklist screen" width="200"/>
+    <img src="Screenshots%20and%20Icon/Screen%20shots/home-screen.png" alt="Home screen" width="300"/>
+    <img src="Screenshots%20and%20Icon/Screen%20shots/project-screen.png" alt="Tasklist screen" width="300"/>
+    <img src="Screenshots%20and%20Icon/Screen%20shots/check-to-do-screen.png" alt="Checklist screen" width="300"/>
 </div>
 
 
